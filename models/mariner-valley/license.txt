@@ -1,0 +1,11 @@
+Model Information:
+* title:	Valles Marineris (3D printable)
+* source:	https://sketchfab.com/3d-models/valles-marineris-3d-printable-f5770cfeb09e4ecfb9601fdda1f33c4b
+* author:	NASA (https://sketchfab.com/NASA)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Valles Marineris (3D printable)" (https://sketchfab.com/3d-models/valles-marineris-3d-printable-f5770cfeb09e4ecfb9601fdda1f33c4b) by NASA (https://sketchfab.com/NASA) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,5 @@
+gltf-transform weld destiny_threat_display_ship-full.glb destinyThreatDisplayShip.glb --tolerance 0.0001
+gltf-transform simplify destinyThreatDisplayShip.glb destinyThreatDisplayShip.glb --ratio 0.1 --error 0.0001
+gltf-transform resize destinyThreatDisplayShip.glb destinyThreatDisplayShip.glb --width 2048 --height 2048
+gltf-transform webp destinyThreatDisplayShip.glb destinyThreatDisplayShip.glb
+gltf-transform draco destinyThreatDisplayShip.glb destinyThreatDisplayShip.glb
